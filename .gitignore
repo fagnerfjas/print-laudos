@@ -1,0 +1,36 @@
+# Diretório node_modules
+node_modules/
+
+# Diretórios de build e dependências específicas
+dist/
+build/
+out/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Arquivos do editor de código (Visual Studio Code)
+.vscode/
+
+# Dependências do Electron
+/electron/
+
+# Arquivos de configuração do npm
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos temporários de editor de texto
+*.swp
+*.swo
+
+# Arquivos gerados localmente
+package-lock.json  # se você não quiser versioná-lo
+yarn.lock          # se você estiver usando yarn e não quiser versioná-lo
+
+# Outros arquivos específicos do projeto
+.idea/          # JetBrains IDEs

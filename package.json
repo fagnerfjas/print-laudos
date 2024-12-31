@@ -1,0 +1,29 @@
+{
+  "name": "print-laudos",
+  "version": "1.0.0",
+  "description": "Aplicação para impressão de laudos médicos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fagnerfjas/print-laudos.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Fagner Jefferson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnerfjas/print-laudos/issues"
+  },
+  "homepage": "https://github.com/fagnerfjas/print-laudos#readme",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

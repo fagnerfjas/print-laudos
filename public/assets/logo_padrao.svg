@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60mm"
+   height="58mm"
+   viewBox="0 0 60 58"
+   version="1.1"
+   id="svg1214"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo_padrao.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1216"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="60mm"
+     inkscape:zoom="1.1263116"
+     inkscape:cx="285.00106"
+     inkscape:cy="376.45"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1211">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1745"
+       x="-0.055456948"
+       y="-0.055456948"
+       width="1.1109139"
+       height="1.1109139">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2213305"
+         id="feGaussianBlur1747" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1916"
+       x="-0.12767901"
+       y="-0.11935497"
+       width="1.255358"
+       height="1.2387099">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7725265"
+         id="feGaussianBlur1918" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1960"
+       transform="matrix(1.0228399,0,0,0.99904303,-87.054354,-65.52683)">
+      <circle
+         style="mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.4066;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1745)"
+         id="path880-2-5-7"
+         cx="113.91109"
+         cy="95.379341"
+         r="26.427647"
+         inkscape:export-xdpi="256.49646"
+         inkscape:export-ydpi="256.49646"
+         inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png" />
+      <circle
+         style="fill:#0080cc;fill-opacity:1;stroke:none;stroke-width:2.4066;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path880-2-5"
+         cx="114.86185"
+         cy="94.267487"
+         r="26.427647"
+         inkscape:export-xdpi="256.49646"
+         inkscape:export-ydpi="256.49646"
+         inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png" />
+      <g
+         id="g1797-2"
+         style="fill:#333333;stroke:none;filter:url(#filter1916)"
+         transform="translate(0,1.5875)">
+        <g
+           id="g991-3-7-3-3"
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           transform="matrix(0.73612386,0,0,0.73612386,-164.71745,58.019994)"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             id="g987-6-0-56-7"
+             style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <path
+               style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 399.00127,34.062981 -16.53985,-8.269925 c -0.002,-6.62e-4 -0.003,-0.0015 -0.004,-0.0022 -1.69729,-0.843542 -3.72397,-0.843447 -5.42543,0.0022 l -16.53559,8.26775 c -2.08398,1.035514 -3.37927,3.12451 -3.3806,5.452572 v 19.676369 c -0.0133,2.329008 1.26985,4.426231 3.35563,5.477159 l 16.53919,8.269642 c 0.85347,0.427161 1.78969,0.6406 2.72591,0.6406 0.93603,0 1.87206,-0.213534 2.72506,-0.640317 l 16.53559,-8.26775 c 2.08408,-1.035514 3.37937,-3.124604 3.3805,-5.452571 V 39.512432 c -10e-4,-2.327022 -1.29633,-4.415923 -3.37606,-5.449451 z m -0.53629,25.152678 c -4.7e-4,0.832288 -0.46376,1.579466 -1.21349,1.951967 l -16.54032,8.270303 c -0.61053,0.305548 -1.33955,0.305548 -1.95064,-3.78e-4 l -16.53446,-8.267183 c -0.74491,-0.375432 -1.20404,-1.126771 -1.19827,-1.960951 0,-0.0045 0,-0.0091 0,-0.01352 V 39.514512 c 4.7e-4,-0.832477 0.46386,-1.579655 1.21359,-1.95225 l 16.5355,-8.267751 c 0.30356,-0.150835 0.63662,-0.2263 0.9696,-0.2263 0.33269,0 0.66537,0.07528 0.96856,0.225827 l 16.54079,8.270304 c 0.74548,0.370421 1.20876,1.117598 1.20914,1.949036 z"
+               id="path889-5-7-9-2-5" />
+          </g>
+        </g>
+        <g
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="g899-9-53-3-9-9"
+           transform="matrix(0.06961338,0,0,0.06961338,97.001866,76.539842)"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+             id="g897-4-5-6-1-2">
+            <path
+               style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 486.131,118.932 c -5.109,-10.218 -17.536,-14.359 -27.753,-9.25 L 256.001,210.87 53.623,109.681 c -10.219,-5.109 -22.644,-0.967 -27.752,9.25 -5.11,10.219 -0.967,22.644 9.25,27.752 L 246.749,252.5 c 2.912,1.455 6.081,2.183 9.251,2.183 3.17,0 6.339,-0.728 9.25,-2.184 L 476.88,146.684 c 10.219,-5.109 14.36,-17.534 9.251,-27.752 z"
+               id="path895-8-6-0-27-2" />
+          </g>
+        </g>
+        <g
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="g905-4-2-6-0-8"
+           transform="matrix(0.06961338,0,0,0.06961338,97.001866,76.539842)"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+             id="g903-6-9-2-93-9">
+            <path
+               style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 256.001,213.312 c -11.424,0 -20.685,9.262 -20.685,20.685 V 491.1 c 0,11.425 9.262,20.685 20.685,20.685 11.424,0 20.685,-9.261 20.685,-20.685 V 233.998 c 0,-11.424 -9.262,-20.686 -20.685,-20.686 z"
+               id="path901-9-1-6-6-7" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1797">
+        <g
+           id="g991-3-7-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           transform="matrix(0.73612386,0,0,0.73612386,-164.71745,58.019994)"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             id="g987-6-0-56"
+             style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 399.00127,34.062981 -16.53985,-8.269925 c -0.002,-6.62e-4 -0.003,-0.0015 -0.004,-0.0022 -1.69729,-0.843542 -3.72397,-0.843447 -5.42543,0.0022 l -16.53559,8.26775 c -2.08398,1.035514 -3.37927,3.12451 -3.3806,5.452572 v 19.676369 c -0.0133,2.329008 1.26985,4.426231 3.35563,5.477159 l 16.53919,8.269642 c 0.85347,0.427161 1.78969,0.6406 2.72591,0.6406 0.93603,0 1.87206,-0.213534 2.72506,-0.640317 l 16.53559,-8.26775 c 2.08408,-1.035514 3.37937,-3.124604 3.3805,-5.452571 V 39.512432 c -10e-4,-2.327022 -1.29633,-4.415923 -3.37606,-5.449451 z m -0.53629,25.152678 c -4.7e-4,0.832288 -0.46376,1.579466 -1.21349,1.951967 l -16.54032,8.270303 c -0.61053,0.305548 -1.33955,0.305548 -1.95064,-3.78e-4 l -16.53446,-8.267183 c -0.74491,-0.375432 -1.20404,-1.126771 -1.19827,-1.960951 0,-0.0045 0,-0.0091 0,-0.01352 V 39.514512 c 4.7e-4,-0.832477 0.46386,-1.579655 1.21359,-1.95225 l 16.5355,-8.267751 c 0.30356,-0.150835 0.63662,-0.2263 0.9696,-0.2263 0.33269,0 0.66537,0.07528 0.96856,0.225827 l 16.54079,8.270304 c 0.74548,0.370421 1.20876,1.117598 1.20914,1.949036 z"
+               id="path889-5-7-9-2" />
+          </g>
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+           id="g899-9-53-3-9"
+           transform="matrix(0.06961338,0,0,0.06961338,97.001866,76.539842)"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+             id="g897-4-5-6-1">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 486.131,118.932 c -5.109,-10.218 -17.536,-14.359 -27.753,-9.25 L 256.001,210.87 53.623,109.681 c -10.219,-5.109 -22.644,-0.967 -27.752,9.25 -5.11,10.219 -0.967,22.644 9.25,27.752 L 246.749,252.5 c 2.912,1.455 6.081,2.183 9.251,2.183 3.17,0 6.339,-0.728 9.25,-2.184 L 476.88,146.684 c 10.219,-5.109 14.36,-17.534 9.251,-27.752 z"
+               id="path895-8-6-0-27" />
+          </g>
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+           id="g905-4-2-6-0"
+           transform="matrix(0.06961338,0,0,0.06961338,97.001866,76.539842)"
+           inkscape:export-xdpi="256.49646"
+           inkscape:export-ydpi="256.49646"
+           inkscape:export-filename="/home/fjas/Documentos/FJAS IT/imagens/logo-splash-azul.png">
+          <g
+             style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+             id="g903-6-9-2-93">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#fffffa;stroke-opacity:1"
+               inkscape:connector-curvature="0"
+               d="m 256.001,213.312 c -11.424,0 -20.685,9.262 -20.685,20.685 V 491.1 c 0,11.425 9.262,20.685 20.685,20.685 11.424,0 20.685,-9.261 20.685,-20.685 V 233.998 c 0,-11.424 -9.262,-20.686 -20.685,-20.686 z"
+               id="path901-9-1-6-6" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
